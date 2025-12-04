@@ -34,21 +34,19 @@ The solution includes:
 
 ## 📂 Repository Structure
 
-powerbi-customer-insights-dashboard/
-│
-├── Customer_Insights_Dashboard.pbix      # main Power BI report
-├── README.md                             # description of the project
-│
-├── data/
-│     └── sales_and_customer_insights.csv
-│
-├── screenshots/
-│     ├── overview.png
-│     ├── customer_insights.png
-│     └── drillthrough.png
-│
-└── theme/
-└── modern_minimal.json
+Customer_Insights_Dashboard.pbix  
+README.md  
+
+data/  
+  sales_and_customer_insights.csv  
+
+screenshots/  
+  overview.jpg  
+  insights.jpg  
+  star-schema.jpg  
+
+theme/  
+  modern_minimal.json  
 
 ---
 
@@ -196,4 +194,5 @@ GitHub: *(add link here)*
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
+
 
