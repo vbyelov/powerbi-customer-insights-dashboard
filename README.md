@@ -123,7 +123,7 @@ Includes:
 - Interactive metric switching via SELECTEDVALUE + SWITCH  
 
 **Screenshot:**  
-![Overview](./screenshots/overview.png)
+![Overview](./screenshots/overview.jpg)
 
 ---
 
@@ -138,7 +138,7 @@ Contains:
 - Drillthrough navigation  
 
 **Screenshot:**  
-![Customer Insights](./screenshots/customer_insights.png)
+![Customer Insights](./screenshots/insights.jpg)
 
 ---
 
@@ -152,9 +152,14 @@ Displays customer-specific information:
 - Segment  
 - Revenue contribution (optional)
 
-**Screenshot:**  
-![Customer Detail](./screenshots/drillthrough.png)
 
+---
+## ⭐ Data Model — Star Schema
+
+Clean dimensional model used in the dashboard.
+
+**Screenshot:**  
+![Star Schema](./screenshots/star-schema.jpg)
 ---
 
 ## 🎨 Design & Theme
@@ -194,5 +199,6 @@ GitHub: *(add link here)*
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
+
 
 
