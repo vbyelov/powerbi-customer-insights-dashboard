@@ -1,0 +1,34 @@
+{
+  "name": "Modern Minimal",
+  "dataColors": [
+    "#2962FF",
+    "#82B1FF",
+    "#4CAF50",
+    "#E53935",
+    "#333333",
+    "#B0B0B0"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1A1A1A",
+  "tableAccent": "#2962FF",
+
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "color": { "solid": { "color": "#1A1A1A" }},
+            "fontSize": 14,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#333333" }},
+            "fontSize": 12
+          }
+        ]
+      }
+    }
+  }
+}
