@@ -192,13 +192,14 @@ The dashboard is ready for publishing to **Power BI Service**:
 
 **Volodymyr Byelov**  
 Data Analyst — Power BI, SQL, Python  
-GitHub: *(add link here)*
+GitHub: https://github.com/vbyelov/powerbi-customer-insights-dashboard
 
 ---
 
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
+
 
 
 
